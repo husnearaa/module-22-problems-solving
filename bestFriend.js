@@ -1,3 +1,13 @@
+// ------------------------------
+// Problem-4. ['sajid', 'mamun', 'kamal', 'jubayer bin rased', 'chinku'];
+bestFriend
+// write a function and set array value. 
+//and  which name is big return the value.
+
+
+
+Answer:
+
 const friends = ['sajid', 'mamun', 'kamal', 'jubayer bin rased', 'chinku'];
 
 function bestFriend(friendsName){
